@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cttedysanches@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/edy-sanches-25232b196](www.linkedin.com/in/edy-sanches-25232b196)
+- 📄 Know about my experiences on [Linkedin](www.linkedin.com/in/edy-sanches-25232b196)
 
 - ⚡ Fun fact **i love brazilian music <3**
 
