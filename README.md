@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Edy Sanches</h1>
-<h3 align="center">A computer engineer from the great Brasil</h3>
+<h3 align="center">A computer engineer and back-end developer from Brasil 🇧🇷</h3>
 
 - 🔭 I’m currently working on [back-end on embedded systems](https://engtecnologia.com/)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web API's focused on embedded systems**
 
-- 💬 Ask me about **Javascript, back-end and microcontrollers**
+- 💬 Ask me about **Javascript, automated tests, architectures and microcontrollers**
 
 - 📫 How to reach me **cttedysanches@gmail.com**
 
