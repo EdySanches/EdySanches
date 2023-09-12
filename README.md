@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Edy Sanches</h1>
 <h3 align="center">A computer engineer and back-end developer from Brasil 🇧🇷</h3>
 
-- 🔭 I’m currently working on [back-end on embedded systems](https://engtecnologia.com/)
+- 🔭 I’m currently working on [back-end on IoT systems](https://engtecnologia.com/)
 
 - 🌱 I’m currently learning **Automated tests**
 
